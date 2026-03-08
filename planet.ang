@@ -1,2 +1,3 @@
 print("solar system");
-
+print("venus");
+print("earth");
